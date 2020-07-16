@@ -1,0 +1,4 @@
+"device_token",
+"66860dbd-707e-4884-978c-bb5e9ee764a2",
+"refresh_token",
+"5a029ca8-5d12-401b-95f8-7bc2e7bedcdf"
